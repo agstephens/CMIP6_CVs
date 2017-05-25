@@ -7,8 +7,6 @@
         "institution",
         "license",
         "source",
-        "source_id",
-        "variable_id",
     ],
     "version_metadata":{
         "author":"Ag Stephens <ag.stephens@stfc.ac.uk>",
